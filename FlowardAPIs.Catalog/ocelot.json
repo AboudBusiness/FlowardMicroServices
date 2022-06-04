@@ -1,0 +1,25 @@
+//Catalog/Ocelot.json
+//{
+//  "Routes": [
+//    //Customer API
+//    {
+//      "DownstreamPathTemplate": "/api/Products",
+//      "DownstreamScheme": "https",
+//      "DownstreamHostAndPorts": [
+//        {
+//          "Host": "localhost",
+//          "Port": "7102"
+//        }
+//      ],
+//      "UpstreamPathTemplate": "/Products",
+//      "UpstreamHttpMethod": [
+//        "GET",
+//        "PUT",
+//        "DELETE",
+//        "POST"
+//      ],
+//      "SwaggerKey": "API_PRODUCTS",
+//      "Priority": 0
+//    }
+//  ]
+//}
